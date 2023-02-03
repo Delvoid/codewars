@@ -4,6 +4,7 @@ pub mod kyu8;
 
 pub use kyu6::who_likes_it::likes;
 pub use kyu8::count_by_x;
+pub use kyu8::difference_of_volumes_of_cuboids;
 pub use kyu8::parse_nice_int_from_char_problem;
 
 use crate::parse_nice_int_from_char_problem::get_age;
@@ -18,4 +19,8 @@ fn main() {
     for el in &count_by_x {
         print!("{} ", el);
     }
+
+    let volume_dif = difference_of_volumes_of_cuboids::find_difference(&[19, 24, 7], &[13, 12, 23]);
+    println!("volume_dif");
+    println!("{}", volume_dif)
 }

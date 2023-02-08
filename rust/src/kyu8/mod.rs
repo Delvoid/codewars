@@ -1,3 +1,4 @@
+pub mod add_length;
 pub mod are_you_playing_banjo;
 pub mod count_by_x;
 pub mod count_of_positives_sum_of_negatives;

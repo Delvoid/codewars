@@ -1,7 +1,9 @@
+pub mod kyu5;
 pub mod kyu6;
 pub mod kyu7;
 pub mod kyu8;
 
+pub use kyu5::rgb_to_hex_conversion;
 pub use kyu6::who_likes_it::likes;
 pub use kyu7::reverse_word;
 pub use kyu8::count_by_x;
@@ -28,4 +30,7 @@ fn main() {
     let sentence = "double  spaced  words";
     let reversed = reverse_word::reverse_words(sentence);
     println!("{}", reversed);
+
+    let hex = rgb_to_hex_conversion::rgb(255, 255, 255);
+    println!(" Hexadecimal: {}", hex);
 }

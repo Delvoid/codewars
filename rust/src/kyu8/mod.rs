@@ -1,5 +1,6 @@
 pub mod add_length;
 pub mod are_you_playing_banjo;
+pub mod convert_a_boolean_to_a_string;
 pub mod count_by_x;
 pub mod count_of_positives_sum_of_negatives;
 pub mod difference_of_volumes_of_cuboids;

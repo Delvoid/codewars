@@ -3,3 +3,4 @@ pub mod check_the_sum;
 pub mod love_vs_friendship;
 pub mod reverse_word;
 pub mod sort_numbers;
+pub mod string_ends_with;

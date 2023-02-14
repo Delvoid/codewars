@@ -1,5 +1,6 @@
 pub mod add_length;
 pub mod are_you_playing_banjo;
+pub mod beginner_series_1_school_paperwork;
 pub mod convert_a_boolean_to_a_string;
 pub mod count_by_x;
 pub mod count_of_positives_sum_of_negatives;

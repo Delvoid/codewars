@@ -8,6 +8,7 @@ pub mod difference_of_volumes_of_cuboids;
 pub mod grasshopper_check_for_factor;
 pub mod grasshopper_messi_goals;
 pub mod grasshopper_personalized_message;
+pub mod hex_to_decimal;
 pub mod invert_values;
 pub mod opposites_attract;
 pub mod parse_nice_int_from_char_problem;

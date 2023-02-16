@@ -12,4 +12,5 @@ pub mod hex_to_decimal;
 pub mod invert_values;
 pub mod opposites_attract;
 pub mod parse_nice_int_from_char_problem;
+pub mod volume_of_a_cuboid;
 pub mod you_cant_code_under_pressure;

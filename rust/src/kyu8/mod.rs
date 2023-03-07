@@ -4,6 +4,7 @@ pub mod beginner_series_1_school_paperwork;
 pub mod bin_to_decimal;
 pub mod compare_within_margin;
 pub mod convert_a_boolean_to_a_string;
+pub mod convert_number_to_reversed_array_of_digits;
 pub mod count_by_x;
 pub mod count_of_positives_sum_of_negatives;
 pub mod difference_of_volumes_of_cuboids;

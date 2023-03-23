@@ -5,6 +5,7 @@ pub mod kyu8;
 
 pub use kyu5::rgb_to_hex_conversion;
 pub use kyu6::who_likes_it::likes;
+pub use kyu7::find_the_nth_digit_of_a_number::find_digit;
 pub use kyu7::reverse_word;
 pub use kyu8::count_by_x;
 pub use kyu8::difference_of_volumes_of_cuboids;
@@ -33,4 +34,6 @@ fn main() {
 
     let hex = rgb_to_hex_conversion::rgb(255, 255, 255);
     println!(" Hexadecimal: {}", hex);
+
+    println!("{}", find_digit(5673, 4));
 }

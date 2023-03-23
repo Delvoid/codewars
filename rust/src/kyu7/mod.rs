@@ -1,5 +1,6 @@
 pub mod binarry_addition;
 pub mod check_the_sum;
+pub mod find_the_nth_digit_of_a_number;
 pub mod greet_me;
 pub mod love_vs_friendship;
 pub mod removing_elements;

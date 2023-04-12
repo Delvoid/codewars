@@ -1,3 +1,4 @@
+pub mod OOP_object_oriented_piracy;
 pub mod add_length;
 pub mod are_you_playing_banjo;
 pub mod beginner_series_1_school_paperwork;

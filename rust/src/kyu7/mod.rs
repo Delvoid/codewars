@@ -7,4 +7,5 @@ pub mod love_vs_friendship;
 pub mod removing_elements;
 pub mod reverse_word;
 pub mod sort_numbers;
+pub mod speed_control;
 pub mod string_ends_with;

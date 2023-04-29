@@ -1,5 +1,5 @@
 pub fn cockroach_speed(s: f64) -> i64 {
-    (s * 27.77777777777778).round() as i64
+    (s * 27.77777777777778).floor() as i64
 }
 
 #[cfg(test)]

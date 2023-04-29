@@ -2,6 +2,7 @@ pub mod OOP_object_oriented_piracy;
 pub mod add_length;
 pub mod are_you_playing_banjo;
 pub mod beginner_series_1_school_paperwork;
+pub mod beginner_series_4_cockroach;
 pub mod bin_to_decimal;
 pub mod compare_within_margin;
 pub mod convert_a_boolean_to_a_string;

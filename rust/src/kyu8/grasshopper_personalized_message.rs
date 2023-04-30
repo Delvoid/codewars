@@ -1,5 +1,3 @@
-use std::fmt::format;
-
 pub fn greet(name: &str, owner: &str) -> String {
     match name == owner {
         true => "Hello boss".to_string(),

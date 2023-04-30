@@ -1,5 +1,5 @@
-static la_liga_goals: u32 = 43;
-static champions_league_goals: u32 = 10;
-static copa_del_rey_goals: u32 = 5;
+pub static LA_LIGA_GOALS: u32 = 43;
+pub static CHAMPIONS_LEAGUE_GOALS: u32 = 10;
+pub static COPA_DEL_REY_GOALS: u32 = 5;
 
-static total_goals: u32 = la_liga_goals + champions_league_goals + copa_del_rey_goals;
+pub static TOTAL_GOALS: u32 = LA_LIGA_GOALS + CHAMPIONS_LEAGUE_GOALS + CHAMPIONS_LEAGUE_GOALS;

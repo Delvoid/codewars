@@ -1,4 +1,3 @@
-pub mod OOP_object_oriented_piracy;
 pub mod add_length;
 pub mod are_you_playing_banjo;
 pub mod beginner_series_1_school_paperwork;
@@ -16,6 +15,7 @@ pub mod grasshopper_personalized_message;
 pub mod hex_to_decimal;
 pub mod how_many_lightsabers_do_you_own;
 pub mod invert_values;
+pub mod oop_object_oriented_piracy;
 pub mod opposites_attract;
 pub mod parse_nice_int_from_char_problem;
 pub mod thinkful_number_drills_blue_and_red_marbles;

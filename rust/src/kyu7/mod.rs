@@ -3,6 +3,7 @@ pub mod check_the_sum;
 pub mod evens_and_odds;
 pub mod find_the_nth_digit_of_a_number;
 pub mod greet_me;
+pub mod largest_elements;
 pub mod love_vs_friendship;
 pub mod removing_elements;
 pub mod reverse_word;

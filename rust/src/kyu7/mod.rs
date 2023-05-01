@@ -8,6 +8,7 @@ pub mod largest_elements;
 pub mod love_vs_friendship;
 pub mod removing_elements;
 pub mod reverse_word;
+pub mod see_you_next_happy_year;
 pub mod simple_fun_176_reverse_letter;
 pub mod sort_numbers;
 pub mod speed_control;

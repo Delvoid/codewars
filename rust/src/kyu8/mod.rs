@@ -18,6 +18,7 @@ pub mod how_many_lightsabers_do_you_own;
 pub mod invert_values;
 pub mod multiply;
 pub mod oop_object_oriented_piracy;
+pub mod opposite_number;
 pub mod opposites_attract;
 pub mod parse_nice_int_from_char_problem;
 pub mod reversed_sequences;

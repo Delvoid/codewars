@@ -1,6 +1,7 @@
 pub mod binarry_addition;
 pub mod building_blocks;
 pub mod check_the_sum;
+pub mod disemvowel_trolls;
 pub mod evens_and_odds;
 pub mod find_the_nth_digit_of_a_number;
 pub mod greet_me;

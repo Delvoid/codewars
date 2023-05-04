@@ -25,6 +25,7 @@ pub mod opposites_attract;
 pub mod parse_nice_int_from_char_problem;
 pub mod reversed_sequences;
 pub mod reversed_strings;
+pub mod string_repeat;
 pub mod thinkful_number_drills_blue_and_red_marbles;
 pub mod volume_of_a_cuboid;
 pub mod wilson_prines;

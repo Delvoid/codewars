@@ -17,3 +17,4 @@ pub mod sort_numbers;
 pub mod speed_control;
 pub mod string_ends_with;
 pub mod vowel_count;
+pub mod you_are_square;

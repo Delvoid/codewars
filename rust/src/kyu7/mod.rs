@@ -1,6 +1,7 @@
 pub mod binarry_addition;
 pub mod building_blocks;
 pub mod check_the_sum;
+pub mod descending_order;
 pub mod digit_digit;
 pub mod disemvowel_trolls;
 pub mod evens_and_odds;

@@ -28,6 +28,7 @@ pub mod reversed_sequences;
 pub mod reversed_strings;
 pub mod square_n_sum;
 pub mod string_repeat;
+pub mod sum_mixed_array;
 pub mod sum_of_positive;
 pub mod thinkful_number_drills_blue_and_red_marbles;
 pub mod volume_of_a_cuboid;

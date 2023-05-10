@@ -1,4 +1,5 @@
 pub mod array_diff;
+pub mod bit_counting;
 pub mod create_phone_number;
 pub mod dashatize_it;
 pub mod multiples_of_3_or_5;

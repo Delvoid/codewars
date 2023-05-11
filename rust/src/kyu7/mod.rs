@@ -12,6 +12,7 @@ pub mod greet_me;
 pub mod highest_and_lowest;
 pub mod largest_elements;
 pub mod love_vs_friendship;
+pub mod mumbling;
 pub mod removing_elements;
 pub mod reverse_word;
 pub mod round_to_the_next_multiple_of_5;

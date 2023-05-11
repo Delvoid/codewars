@@ -16,6 +16,7 @@ pub mod find_the_smallest_integer_in_the_array;
 pub mod grasshopper_check_for_factor;
 pub mod grasshopper_messi_goals;
 pub mod grasshopper_personalized_message;
+pub mod grasshopper_summation;
 pub mod hex_to_decimal;
 pub mod how_many_lightsabers_do_you_own;
 pub mod invert_values;

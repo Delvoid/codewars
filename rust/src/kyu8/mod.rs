@@ -6,6 +6,7 @@ pub mod bin_to_decimal;
 pub mod compare_within_margin;
 pub mod convert_a_boolean_to_a_string;
 pub mod convert_a_number_to_a_string;
+pub mod convert_a_string_to_a_number;
 pub mod convert_boolean_values_to_strings_yes_or_no;
 pub mod convert_number_to_reversed_array_of_digits;
 pub mod count_by_x;

@@ -1,3 +1,4 @@
+pub mod begginner_series_3_sum_of_numbers;
 pub mod binarry_addition;
 pub mod building_blocks;
 pub mod check_the_sum;

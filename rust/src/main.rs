@@ -36,4 +36,8 @@ fn main() {
     println!(" Hexadecimal: {}", hex);
 
     println!("{}", find_digit(5673, 4));
+
+    let time = 6.7;
+    println!("{time}");
+    println!("i32 time {}", time as i32);
 }

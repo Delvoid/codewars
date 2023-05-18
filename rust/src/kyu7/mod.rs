@@ -3,6 +3,7 @@ pub mod binarry_addition;
 pub mod building_blocks;
 pub mod check_the_sum;
 pub mod complementary_dna;
+pub mod credit_card_mask;
 pub mod descending_order;
 pub mod digit_digit;
 pub mod disemvowel_trolls;

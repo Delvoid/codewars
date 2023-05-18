@@ -12,7 +12,6 @@ pub mod find_the_nth_digit_of_a_number;
 pub mod get_the_middle_character;
 pub mod greet_me;
 pub mod highest_and_lowest;
-pub mod keep_hydrated;
 pub mod largest_elements;
 pub mod love_vs_friendship;
 pub mod mumbling;

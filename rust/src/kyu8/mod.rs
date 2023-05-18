@@ -21,6 +21,7 @@ pub mod grasshopper_summation;
 pub mod hex_to_decimal;
 pub mod how_many_lightsabers_do_you_own;
 pub mod invert_values;
+pub mod keep_hydrated;
 pub mod multiply;
 pub mod oop_object_oriented_piracy;
 pub mod opposite_number;

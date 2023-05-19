@@ -1,5 +1,6 @@
 pub mod array_diff;
 pub mod bit_counting;
+pub mod build_tower;
 pub mod counting_duplicates;
 pub mod create_phone_number;
 pub mod dashatize_it;

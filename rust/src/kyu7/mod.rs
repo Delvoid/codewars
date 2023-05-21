@@ -22,6 +22,7 @@ pub mod round_to_the_next_multiple_of_5;
 pub mod see_you_next_happy_year;
 pub mod shortest_word;
 pub mod simple_fun_176_reverse_letter;
+pub mod sort_by_last_char;
 pub mod sort_numbers;
 pub mod speed_control;
 pub mod string_ends_with;

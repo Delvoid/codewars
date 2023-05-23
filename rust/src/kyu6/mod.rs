@@ -7,6 +7,7 @@ pub mod dashatize_it;
 pub mod duplicate_encoder;
 pub mod find_the_parity_outlier;
 pub mod multiples_of_3_or_5;
+pub mod persistent_bugger;
 pub mod replace_with_alphabet_position;
 pub mod split_strings;
 pub mod stop_gninnips_my_sdrow;

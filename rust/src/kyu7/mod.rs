@@ -17,6 +17,7 @@ pub mod is_this_a_triangle;
 pub mod largest_elements;
 pub mod love_vs_friendship;
 pub mod mumbling;
+pub mod regex_validate_pin_code;
 pub mod removing_elements;
 pub mod reverse_word;
 pub mod round_to_the_next_multiple_of_5;

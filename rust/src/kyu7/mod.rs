@@ -29,5 +29,6 @@ pub mod sort_numbers;
 pub mod speed_control;
 pub mod string_ends_with;
 pub mod to_leet_speak;
+pub mod two_to_one;
 pub mod vowel_count;
 pub mod you_are_square;

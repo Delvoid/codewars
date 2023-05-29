@@ -1,3 +1,4 @@
+pub mod abbreviate_a_two_word_name;
 pub mod add_length;
 pub mod are_you_playing_banjo;
 pub mod basic_mathematical_operations;

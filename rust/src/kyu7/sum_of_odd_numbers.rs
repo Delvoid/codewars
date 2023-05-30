@@ -3,7 +3,7 @@ pub fn row_sum_odd_numbers(n: i64) -> i64 {
     let end = n * n + n - 1;
     (start..=end).step_by(2).sum()
 }
-
+// can also do n.pow(3)
 #[cfg(test)]
 mod tests {
     use super::*;

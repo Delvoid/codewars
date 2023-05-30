@@ -28,6 +28,7 @@ pub mod sort_by_last_char;
 pub mod sort_numbers;
 pub mod speed_control;
 pub mod string_ends_with;
+pub mod sum_of_odd_numbers;
 pub mod to_leet_speak;
 pub mod two_to_one;
 pub mod vowel_count;

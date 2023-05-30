@@ -12,6 +12,7 @@ pub mod exes_and_ohs;
 pub mod find_the_nth_digit_of_a_number;
 pub mod get_the_middle_character;
 pub mod greet_me;
+pub mod growth_of_a_population;
 pub mod highest_and_lowest;
 pub mod is_this_a_triangle;
 pub mod largest_elements;

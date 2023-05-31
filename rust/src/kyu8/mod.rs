@@ -4,6 +4,7 @@ pub mod are_you_playing_banjo;
 pub mod basic_mathematical_operations;
 pub mod beginner_lost_without_a_map;
 pub mod beginner_series_1_school_paperwork;
+pub mod beginner_series_2_clock;
 pub mod beginner_series_4_cockroach;
 pub mod bin_to_decimal;
 pub mod calculate_average;

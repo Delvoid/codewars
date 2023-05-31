@@ -6,6 +6,7 @@ pub mod beginner_lost_without_a_map;
 pub mod beginner_series_1_school_paperwork;
 pub mod beginner_series_4_cockroach;
 pub mod bin_to_decimal;
+pub mod calculate_average;
 pub mod century_from_year;
 pub mod compare_within_margin;
 pub mod convert_a_boolean_to_a_string;

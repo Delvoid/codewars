@@ -9,6 +9,7 @@ pub mod digit_digit;
 pub mod disemvowel_trolls;
 pub mod evens_and_odds;
 pub mod exes_and_ohs;
+pub mod find_the_next_perfect_square;
 pub mod find_the_nth_digit_of_a_number;
 pub mod get_the_middle_character;
 pub mod greet_me;

@@ -1,6 +1,7 @@
 pub mod begginner_series_3_sum_of_numbers;
 pub mod binarry_addition;
 pub mod building_blocks;
+pub mod categorize_new_member;
 pub mod check_the_sum;
 pub mod complementary_dna;
 pub mod credit_card_mask;

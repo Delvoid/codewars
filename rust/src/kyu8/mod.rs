@@ -33,6 +33,7 @@ pub mod is_he_gonna_survive;
 pub mod keep_hydrated;
 pub mod make_upper_case;
 pub mod multiply;
+pub mod number_of_people_in_the_bus;
 pub mod oop_object_oriented_piracy;
 pub mod opposite_number;
 pub mod opposites_attract;

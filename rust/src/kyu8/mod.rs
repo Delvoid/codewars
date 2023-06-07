@@ -49,5 +49,6 @@ pub mod sum_mixed_array;
 pub mod sum_of_positive;
 pub mod thinkful_number_drills_blue_and_red_marbles;
 pub mod volume_of_a_cuboid;
+pub mod will_you_make_it;
 pub mod wilson_prines;
 pub mod you_cant_code_under_pressure;

@@ -21,6 +21,7 @@ pub mod count_by_x;
 pub mod count_of_positives_sum_of_negatives;
 pub mod difference_of_volumes_of_cuboids;
 pub mod even_or_odd;
+pub mod fake_binary;
 pub mod find_maximin_and_minimum_values_of_a_list;
 pub mod find_the_smallest_integer_in_the_array;
 pub mod grasshopper_check_for_factor;

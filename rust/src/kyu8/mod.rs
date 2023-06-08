@@ -33,6 +33,7 @@ pub mod how_many_lightsabers_do_you_own;
 pub mod if_you_cant_sleep_just_count_sheep;
 pub mod invert_values;
 pub mod is_he_gonna_survive;
+pub mod jennys_secret_message;
 pub mod keep_hydrated;
 pub mod make_upper_case;
 pub mod multiply;

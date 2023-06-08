@@ -30,6 +30,7 @@ pub mod grasshopper_personalized_message;
 pub mod grasshopper_summation;
 pub mod hex_to_decimal;
 pub mod how_many_lightsabers_do_you_own;
+pub mod if_you_cant_sleep_just_count_sheep;
 pub mod invert_values;
 pub mod is_he_gonna_survive;
 pub mod keep_hydrated;

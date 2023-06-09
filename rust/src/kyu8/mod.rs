@@ -42,6 +42,7 @@ pub mod oop_object_oriented_piracy;
 pub mod opposite_number;
 pub mod opposites_attract;
 pub mod parse_nice_int_from_char_problem;
+pub mod quater_of_the_year;
 pub mod remove_first_and_last_character;
 pub mod remove_string_spaces;
 pub mod reversed_sequences;

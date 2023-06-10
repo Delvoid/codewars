@@ -4,6 +4,7 @@ pub mod building_blocks;
 pub mod categorize_new_member;
 pub mod check_the_sum;
 pub mod complementary_dna;
+pub mod count_the_divisors_of_a_number;
 pub mod credit_card_mask;
 pub mod descending_order;
 pub mod digit_digit;

@@ -54,6 +54,7 @@ pub mod sum_mixed_array;
 pub mod sum_of_positive;
 pub mod thinkful_number_drills_blue_and_red_marbles;
 pub mod third_angle_of_a_triangle;
+pub mod total_amount_of_points;
 pub mod volume_of_a_cuboid;
 pub mod will_you_make_it;
 pub mod wilson_prines;

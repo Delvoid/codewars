@@ -25,6 +25,7 @@ pub mod fake_binary;
 pub mod find_maximin_and_minimum_values_of_a_list;
 pub mod find_the_smallest_integer_in_the_array;
 pub mod grasshopper_check_for_factor;
+pub mod grasshopper_grade_book;
 pub mod grasshopper_messi_goals;
 pub mod grasshopper_personalized_message;
 pub mod grasshopper_summation;

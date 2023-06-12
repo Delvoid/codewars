@@ -48,6 +48,7 @@ pub mod remove_first_and_last_character;
 pub mod remove_string_spaces;
 pub mod reversed_sequences;
 pub mod reversed_strings;
+pub mod reversed_words;
 pub mod rock_paper_scissors;
 pub mod square_n_sum;
 pub mod string_repeat;

@@ -37,6 +37,7 @@ pub mod invert_values;
 pub mod is_he_gonna_survive;
 pub mod jennys_secret_message;
 pub mod keep_hydrated;
+pub mod l1_set_alarm;
 pub mod make_upper_case;
 pub mod multiply;
 pub mod number_of_people_in_the_bus;

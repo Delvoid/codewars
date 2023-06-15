@@ -16,3 +16,4 @@ pub mod take_a_number_and_sum_its_digits_raised_to_the_cons_power;
 pub mod take_a_ten_minutes_walk;
 pub mod unique_in_order;
 pub mod who_likes_it;
+pub mod your_order_please;

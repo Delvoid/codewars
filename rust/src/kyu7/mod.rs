@@ -1,5 +1,6 @@
 pub mod begginner_series_3_sum_of_numbers;
 pub mod binarry_addition;
+pub mod breaking_chocolate_problem;
 pub mod building_blocks;
 pub mod categorize_new_member;
 pub mod check_the_sum;

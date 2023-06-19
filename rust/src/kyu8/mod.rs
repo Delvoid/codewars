@@ -1,6 +1,7 @@
 pub mod abbreviate_a_two_word_name;
 pub mod add_length;
 pub mod are_you_playing_banjo;
+pub mod array_plus_array;
 pub mod basic_mathematical_operations;
 pub mod beginner_lost_without_a_map;
 pub mod beginner_reduce_but_grow;

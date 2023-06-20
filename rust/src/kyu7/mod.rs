@@ -11,6 +11,7 @@ pub mod credit_card_mask;
 pub mod descending_order;
 pub mod digit_digit;
 pub mod disemvowel_trolls;
+pub mod dont_give_me_five;
 pub mod evens_and_odds;
 pub mod exes_and_ohs;
 pub mod find_the_divisors;

@@ -15,6 +15,7 @@ pub mod dont_give_me_five;
 pub mod evens_and_odds;
 pub mod exes_and_ohs;
 pub mod find_the_divisors;
+pub mod find_the_middle_element;
 pub mod find_the_next_perfect_square;
 pub mod find_the_nth_digit_of_a_number;
 pub mod find_the_stray_number;

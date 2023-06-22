@@ -42,6 +42,7 @@ pub mod sort_numbers;
 pub mod speed_control;
 pub mod string_ends_with;
 pub mod sum_of_a_sequene;
+pub mod sum_of_angles;
 pub mod sum_of_odd_numbers;
 pub mod testing_1_2_3;
 pub mod the_highest_profit_wins;

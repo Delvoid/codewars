@@ -24,6 +24,7 @@ pub mod greet_me;
 pub mod growth_of_a_population;
 pub mod highest_and_lowest;
 pub mod is_this_a_triangle;
+pub mod largest_5_didgit_number_in_a_series;
 pub mod largest_elements;
 pub mod love_vs_friendship;
 pub mod mumbling;

@@ -6,6 +6,7 @@ pub mod create_phone_number;
 pub mod dashatize_it;
 pub mod does_my_number_look_big_in_this;
 pub mod duplicate_encoder;
+pub mod equal_sides_of_an_array;
 pub mod find_the_parity_outlier;
 pub mod multiples_of_3_or_5;
 pub mod persistent_bugger;

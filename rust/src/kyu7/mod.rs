@@ -50,6 +50,7 @@ pub mod testing_1_2_3;
 pub mod the_highest_profit_wins;
 pub mod the_museum_of_incredible_dull_things;
 pub mod to_leet_speak;
+pub mod triangular_treasure;
 pub mod tribonacci_sequence;
 pub mod two_to_one;
 pub mod vowel_count;

@@ -59,6 +59,7 @@ pub mod string_repeat;
 pub mod sum_mixed_array;
 pub mod sum_of_positive;
 pub mod switch_it_up;
+pub mod the_feast_of_many_beasts;
 pub mod thinkful_logic_drills_traffic_light;
 pub mod thinkful_number_drills_blue_and_red_marbles;
 pub mod third_angle_of_a_triangle;
